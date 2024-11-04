@@ -1,0 +1,3 @@
+Pour la recette réutiliser mocktail.jsx
+initialiser les état pour le meal, catégorie, area, , mealThumb, instructions et les ingredients
+trouver un moyen d'utiliser dialog pour ingrédients et instructions

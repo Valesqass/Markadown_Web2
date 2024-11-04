@@ -1,0 +1,14 @@
+Tableau de bord
+
+
+Page d'accueil (route de base) :
+-éléments old school externes (API) : 
+-liste fichiers Markdown : Fichier sélectionné
+-moyen de créer un nouveau fichier : Nouveau
+
+--> Cliquer sur Fichier et Nouveau amène à la page en question ( autre route)
+
+
+Design Figma
+
+
